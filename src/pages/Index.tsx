@@ -87,13 +87,7 @@ export default function Index() {
             </div>
             <div>
               <p className="text-lg text-foreground mb-6 leading-relaxed">
-                Welcome to Moses N-AIM Media, your premier destination for professional media production and creative storytelling. With over a decade of experience, we specialize in capturing the essence of your most important moments.
-              </p>
-              <p className="text-lg text-foreground mb-6 leading-relaxed">
-                Our dedicated team of photographers, videographers, and producers are committed to delivering exceptional quality and creative excellence in every project we undertake.
-              </p>
-              <p className="text-lg text-foreground leading-relaxed">
-                From corporate events to intimate celebrations, we bring professional expertise and artistic vision to every frame.
+                MOSES N-AIM media is a professional photography, videography and media production company dedicated to capturing important moments, creating lasting memories, and telling your story with creativity and excellence.
               </p>
             </div>
           </div>
