@@ -30,7 +30,7 @@ export default function Index() {
             <button onClick={() => scrollToSection('services')} className="text-foreground hover:text-primary transition">Services</button>
             <button onClick={() => scrollToSection('gallery')} className="text-foreground hover:text-primary transition">Gallery</button>
             <button onClick={() => scrollToSection('contact')} className="text-foreground hover:text-primary transition">Contact</button>
-            <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer" className="bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition flex items-center gap-2">
+            <a href="https://wa.me/254745917741" target="_blank" rel="noopener noreferrer" className="bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition flex items-center gap-2">
               <MessageCircle size={18} /> WhatsApp
             </a>
           </div>
@@ -50,7 +50,7 @@ export default function Index() {
               <button onClick={() => scrollToSection('services')} className="text-left text-foreground hover:text-primary transition">Services</button>
               <button onClick={() => scrollToSection('gallery')} className="text-left text-foreground hover:text-primary transition">Gallery</button>
               <button onClick={() => scrollToSection('contact')} className="text-left text-foreground hover:text-primary transition">Contact</button>
-              <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer" className="bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition flex items-center gap-2 w-fit">
+              <a href="https://wa.me/254745917741" target="_blank" rel="noopener noreferrer" className="bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition flex items-center gap-2 w-fit">
                 <MessageCircle size={18} /> WhatsApp
               </a>
             </div>
@@ -217,8 +217,8 @@ export default function Index() {
                 <Phone className="text-primary mt-1 flex-shrink-0" size={24} />
                 <div>
                   <h3 className="font-bold text-lg text-secondary mb-2">Phone</h3>
-                  <p className="text-foreground">+1 (555) 123-4567</p>
-                  <p className="text-foreground">+1 (555) 987-6543</p>
+                  <p className="text-foreground">+254 745 917 741</p>
+                  <a href="https://wa.me/254745917741" className="text-primary hover:underline font-semibold">Chat on WhatsApp</a>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -233,8 +233,8 @@ export default function Index() {
                 <MapPin className="text-primary mt-1 flex-shrink-0" size={24} />
                 <div>
                   <h3 className="font-bold text-lg text-secondary mb-2">Location</h3>
-                  <p className="text-foreground">123 Creative Street</p>
-                  <p className="text-foreground">New York, NY 10001</p>
+                  <p className="text-foreground">Kiboronjo, Subukia</p>
+                  <p className="text-foreground">Kenya</p>
                 </div>
               </div>
 
@@ -254,7 +254,7 @@ export default function Index() {
                   <a href="#" className="bg-primary text-white p-3 rounded-full hover:bg-blue-700 transition" title="YouTube">
                     <Youtube size={24} />
                   </a>
-                  <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer" className="bg-green-500 text-white p-3 rounded-full hover:bg-green-600 transition" title="WhatsApp">
+                  <a href="https://wa.me/254745917741" target="_blank" rel="noopener noreferrer" className="bg-green-500 text-white p-3 rounded-full hover:bg-green-600 transition" title="WhatsApp">
                     <MessageCircle size={24} />
                   </a>
                 </div>
@@ -305,7 +305,7 @@ export default function Index() {
 
       {/* WhatsApp Floating Button */}
       <a 
-        href="https://wa.me/1234567890" 
+        href="https://wa.me/254745917741" 
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 bg-green-500 text-white p-4 rounded-full shadow-lg hover:bg-green-600 transition transform hover:scale-110 z-40"
